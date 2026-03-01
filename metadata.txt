@@ -1,0 +1,15 @@
+[general]
+name=GeoR ODM Frontend
+qgisMinimumVersion=3.10
+qgisMaximumVersion=3.99
+description=QGIS frontend for OpenDroneMap (ODM) processing
+about=Clean, modular QGIS plugin for OpenDroneMap processing with separated UI, logic, and data layers.
+category=Raster
+version=2.0.0
+author=QGIS ODM Plugin Team
+email=
+homepage=
+tracker=
+repository=
+experimental=False
+deprecated=False
