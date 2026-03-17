@@ -3,9 +3,9 @@ title: "Setup Guide"
 ---
 
 
-# QGIS ODM Frontend — Setup / Installation
+# QGIS GeoR ODM Frontend — Setup / Installation
 
-This document explains how to install and configure the **ODM Frontend** plugin for **QGIS**. The plugin provides a graphical interface inside QGIS for running OpenDroneMap/NodeODM processing tasks and importing results directly into your GIS project. :contentReference[oaicite:2]{index=2}
+This document explains how to install and configure the **GeoR ODM Frontend** plugin for **QGIS**. The plugin provides a graphical interface inside QGIS for running OpenDroneMap/NodeODM processing tasks and importing results directly into your GIS project. :contentReference[oaicite:2]{index=2}
 
 ---
 

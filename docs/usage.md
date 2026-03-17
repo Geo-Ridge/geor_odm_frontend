@@ -3,9 +3,9 @@ title: "Usage Guide"
 ---
 
 
-# QGIS ODM Frontend — User Guide
+# QGIS GeoR ODM Frontend — User Guide
 
-This document describes how to use the **ODM Frontend** plugin in **QGIS** to process drone imagery with an OpenDroneMap server and import results into your map project. :contentReference[oaicite:7]{index=7}
+This document describes how to use the **GeoR ODM Frontend** plugin in **QGIS** to process drone imagery with an OpenDroneMap server and import results into your map project. :contentReference[oaicite:7]{index=7}
 
 ---
 
@@ -14,7 +14,7 @@ This document describes how to use the **ODM Frontend** plugin in **QGIS** to pr
 After installation:
 
 1. Open **QGIS**.
-2. Go to **Plugins → ODM Frontend → ODM Frontend**  
+2. Go to **Plugins → GeoR ODM Frontend → GeoR ODM Frontend**  
    or click the plugin icon if visible in the toolbar. :contentReference[oaicite:8]{index=8}
 
 ---

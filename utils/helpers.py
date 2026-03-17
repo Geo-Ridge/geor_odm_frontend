@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Helper utilities for ODM Frontend."""
+"""Helper utilities for GeoR ODM Frontend."""
 
 import os
 import re

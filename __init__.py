@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""QGIS ODM Frontend Plugin - Refactored Version
+"""QGIS GeoR ODM Frontend Plugin - Refactored Version
 
 A clean, modular QGIS plugin for OpenDroneMap processing.
 """

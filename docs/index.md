@@ -1,11 +1,11 @@
 ---
-title: "ODM Frontend"
+title: "GeoR ODM Frontend"
 excerpt: "GeoR ODM Frontend Documentation"
 ---
 
 # GeoR ODM Frontend
 
-Welcome to the ODM Frontend documentation. This project provides a web-based interface for Orthophoto Data Management operations.
+Welcome to the GeoR ODM Frontend documentation. This project provides a web-based interface for Orthophoto Data Management operations.
 
 ## Quick Links
 
@@ -14,9 +14,9 @@ Welcome to the ODM Frontend documentation. This project provides a web-based int
 - [User Guide](/GeoR-Website/docs/odm-frontend/usage/)
 - [Features](/GeoR-Website/docs/odm-frontend/features/)
 
-## What is ODM Frontend?
+## What is GeoR ODM Frontend?
 
-The ODM Frontend is a modern web application for managing orthophoto datasets and drone imagery. It provides:
+The GeoR ODM Frontend is a modern web application for managing orthophoto datasets and drone imagery. It provides:
 
 - Orthophoto viewing and management
 - Dataset organization
@@ -25,7 +25,7 @@ The ODM Frontend is a modern web application for managing orthophoto datasets an
 
 ## Getting Started
 
-To get started with ODM Frontend:
+To get started with GeoR ODM Frontend:
 
 1. Follow the [Installation Guide](/GeoR-Website/docs/odm-frontend/installation/)
 2. Complete the [Setup Guide](/GeoR-Website/docs/odm-frontend/setup/)

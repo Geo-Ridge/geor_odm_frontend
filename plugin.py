@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""ODM Frontend QGIS Plugin."""
+"""GeoR ODM Frontend QGIS Plugin."""
 import os
 from qgis.PyQt.QtWidgets import QAction
 from qgis.PyQt.QtGui import QIcon
@@ -21,16 +21,16 @@ class ODMPlugin:
         """Initialize plugin GUI."""
         self.action = QAction(
             QIcon(":/plugins/odm_frontend/drone.svg"),
-            'ODM Frontend',
+            'GeoR ODM Frontend',
             self.iface.mainWindow()
         )
         self.action.triggered.connect(self.run)
-        self.iface.addPluginToMenu('ODM Frontend', self.action)
+        self.iface.addPluginToMenu('GeoR ODM Frontend', self.action)
         self.iface.addToolBarIcon(self.action)
 
     def unload(self):
         """Unload plugin."""
-        self.iface.removePluginMenu('ODM Frontend', self.action)
+        self.iface.removePluginMenu('GeoR ODM Frontend', self.action)
         self.iface.removeToolBarIcon(self.action)
         if self.dock:
             if hasattr(self.dock, 'photos_dock') and self.dock.photos_dock:

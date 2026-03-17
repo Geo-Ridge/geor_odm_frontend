@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Main ODM dialog container."""
+"""Main GeoR ODM dialog container."""
 import os
 from qgis.PyQt.QtWidgets import (
     QDockWidget, QVBoxLayout, QWidget, QTabWidget,
@@ -21,7 +21,7 @@ from .dialogs.connection_dialog import ConnectionDialog
 from .widgets.photos_dock import PhotosDock
 
 class ODMMainDialog(QDockWidget):
-    """Main ODM Frontend dock widget."""
+    """Main GeoR ODM Frontend dock widget."""
 
     def __init__(self, iface):
         super().__init__()
@@ -42,7 +42,7 @@ class ODMMainDialog(QDockWidget):
         self._load_initial_data()
 
     def _setup_ui(self):
-        self.setWindowTitle('ODM Frontend')
+        self.setWindowTitle('GeoR ODM Frontend')
         self.setMinimumWidth(350)
         self.setMaximumWidth(450)
         self.setAttribute(Qt.WA_DeleteOnClose, False)

@@ -1,4 +1,4 @@
-# ODM Frontend Plugin - Refactored
+# GeoR ODM Frontend Plugin - Refactored
 
 ## Structure
 
